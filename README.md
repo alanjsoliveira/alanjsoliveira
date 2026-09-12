@@ -1,35 +1,44 @@
 <div align="center">
 
-# Alan Oliveira
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=480&lines=Dados+%26+BI;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decis%C3%A3o" alt="Typing SVG" />
 
-Analista de Dados Jr · São Paulo, Brasil
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alanjoliveira-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanjoliveira)
-[![Email](https://img.shields.io/badge/Email-alanoliveira.w%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:alanoliveira.w@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanjoliveira)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanoliveira.w@gmail.com)
 
 </div>
 
 <br>
 
-## Sobre
+## 📊 Sobre mim
 
-Bacharel em Sistemas de Informação, com experiência em Dados e BI no Banco Bradesco. No dia a dia, trabalho com construção de dashboards, tratamento de dados e automação de relatórios, unindo Power BI, SQL, Python e Excel para transformar dados brutos em informação que apoia decisão.
+Trabalho com dados: pego bases bagunçadas, trato, e transformo em dashboards e automações que fazem sentido pra quem precisa decidir algo.
 
-Depois de um tempo focado só na rotina de trabalho, estou retomando o GitHub para documentar meus projetos e evoluir meu portfólio na área de dados.
+Passei os últimos meses no time de **Dados e BI do Bradesco**, onde:
 
-## Stack
+- 📈 construí e mantive dashboards em Power BI usados por **mais de 50 pessoas**
+- ⚙️ automatizei relatórios com Python, cortando o tempo de execução em **~70%**
+- 🗄️ tratei e integrei bases com SQL, JOINs e agregações
+- 📑 otimizei processos que antes levavam horas no Excel/VBA
 
-**BI & Dados:** `Power BI` `DAX` `Power Query` `SQL`
-**Automação:** `Python` `Pandas` `Excel/VBA`
-**Outros:** `Git`
+Formado em Sistemas de Informação — venho de uma base técnica de programação, o que ajuda a automatizar em vez de fazer tudo manual.
 
-## Experiência
+<br>
 
-**Banco Bradesco S.A.** — Estagiário em Dados e BI · 05/2024 – 12/2025
-- Desenvolvimento e manutenção de dashboards em Power BI usados por mais de 50 colaboradores
-- Automações em Python que reduziram em ~70% o tempo de tarefas operacionais
-- Extração e tratamento de dados com SQL e Excel avançado/VBA
+## 🛠️ Stack
 
-## Educação
+<div align="center">
 
-**Faculdade Impacta** — Bacharel em Sistemas de Informação · 2022 – 2025
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## 🚀 Projetos
