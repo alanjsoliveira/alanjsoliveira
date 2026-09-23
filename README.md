@@ -42,3 +42,11 @@ Formado em Sistemas de Informação — venho de uma base técnica de programaç
 <br>
 
 ## 🚀 Projetos
+
+### 📊 Desvia — Dashboard de Gestão de Incidentes de TI
+
+> Dashboard de Business Intelligence para monitoramento e análise de incidentes e operações de TI.
+
+**Stack:** `Power BI` · `Power Query` · `DAX` · `Modelagem de Dados`
+
+🔗 **[Ver projeto no GitHub](https://github.com/alanjsoliveira/desvia-dashboard)**
